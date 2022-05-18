@@ -1,3 +1,3 @@
-This repository houses the code for my personal website, https://kylen.me (work in progress)
+This repository houses the code for my personal website, [kylen.me](https://kylen.me) (work in progress)
 
-No copyright, [unlicensed](https://unlicense.org)
+All my content is released through [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode), Hugo and the hello-friend-ng theme are licensed separately.
