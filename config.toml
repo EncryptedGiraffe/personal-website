@@ -63,9 +63,17 @@ disableHugoGeneratorInject = false
   #
   homeSubtitle = """
     Hello there, I'm Kylen, known as Encrypted Giraffe on some platforms. This website contains some of the things I do. <br/>
-    Check the "Things" page for random notes, links, and tidbits I have to share. <br/>
-    Check the "Posts" page for any longer writing I've done.
+    Check the <a href=\"things/\">Things</a> page for random notes, links, and tidbits I have to share. <br/>
+    Check the <a href=\"posts/\">Posts</a> page for any longer writing I've done.
   """
+
+  # content for the posts page text
+  postsPageContent = """
+    This is a collection of all my writings, on a variety of unsorted topics.
+    I also publish a blog on Substack, those posts will appear here as well.
+  """ 
+
+
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -124,6 +132,7 @@ disableHugoGeneratorInject = false
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
       "hello-friend-ng theme made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
+ 
 
   # Colors for favicons
   #
@@ -183,9 +192,9 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "things"
+    name       = "Things"
+    url        = "things/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
