@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is unlicensed, for more information, see https://unlicense.org" # This message is only used by the RSS template.
+copyright = "This work is released under CC0, https://creativecommons.org/publicdomain/zero/1.0/legalcode" # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -183,12 +183,7 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = ""
     weight    = 1
-    copyright = '<a href="https://unlicense.org" target="_blank" rel="noopener">Unlicensed</a>'
-
-  [languages.fr]
-    subtitle  = ""
-    weight    = 2
-    copyright = '<a href="https://unlicense.org" target="_blank" rel="noopener">Unlicensed</a>'
+    copyright = '<a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank" rel="noopener">CC0</a>'
 
 [menu]
   [[menu.main]]
