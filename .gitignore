@@ -10,6 +10,3 @@ hugo.linux
 
 # temp files
 /.hugo_build.lock
-
-# build script
-build_and_deploy.sh
