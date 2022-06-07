@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-date: 2022-06-38T20:40:50-07:00
+date: 2022-06-06T20:00:00-07:00
 draft: false
 toc: false
 images:
