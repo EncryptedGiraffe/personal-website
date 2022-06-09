@@ -1,11 +1,12 @@
 ---
-title: "Hello World"
+title: "WW - Hello World"
 date: 2022-06-06T20:00:00-07:00
 draft: false
 toc: false
 images:
 tags:
   - untagged
+  - wild-wonderings
 ---
 
 `hello world`
