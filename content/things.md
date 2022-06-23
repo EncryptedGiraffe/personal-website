@@ -9,7 +9,7 @@ This page will (presumably) expand over time.
 
 ---
 
-Random interesting quote:
+Interesting quote:
 
 > A civilization which leaves so large a number of its participants unsatisfied and drives them into revolt neither has nor deserves the prospect of a lasting existence.
 > \- Sigmund Freud
@@ -71,13 +71,19 @@ They changed me, and they could change you.
 > \- V for Vendetta
 ---
 
-### More quotes:
+### More quotes
 
 > I think most kids have a sense that it's not supposed to be this way. You're not supposed to hate Monday, or be happy when you don't have to go to school. School should be something that you love. Life should be something that you love.
 > \- Charles Eisenstein
 
 > Food is life, and life must not step away from nature.
 > \- Masanobu Fukuoka, The One-Straw Revolution
+
+> You can solve all the world's problems in a garden.
+> \- Geoff Lawton
+
+> Though the problems of the world are increasingly complex, the solutions remain embarrassingly simple.
+> \- Bill Mollison
 
 ---
 
