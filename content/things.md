@@ -1,7 +1,13 @@
-# Things 
+---
+title: "Things"
+date: "All the thime"
+draft: false
+comments: false
+images:
+toc: true
+---
 
-
-{{< figure src="/cabbage_face_image.svg" alt="Vector art of person with a cabbage in front of their face" position="center" height="40%" width="30%" >}}
+{{< figure src="/cabbage_face_image.svg" alt="Vector art of person with a cabbage in front of their face" position="center" height="35%" width="20%" >}}
 
 Hi there!
 Here I will share anything I think is interesting. It might be random information, books, or videos, or articles, or quotes, anything of the sort. 
@@ -69,6 +75,9 @@ They changed me, and they could change you.
 
 > But what I hope most of all is that you understand what I mean when I tell you that even though I do not know you, and even though I may never meet you, laugh with you, cry with you, or kiss you. I love you. With all my heart, I love you.
 > \- V for Vendetta
+
+You can find more of my writing [here]({{< ref "/posts">}}).
+
 ---
 
 ### More quotes
