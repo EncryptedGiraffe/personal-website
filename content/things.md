@@ -1,6 +1,5 @@
 ---
 title: "Things"
-date: "All the thime"
 draft: false
 comments: false
 images:
