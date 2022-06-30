@@ -68,6 +68,16 @@ You know, authenticity, the thing that our world makes so hard to find.
 > This whole time I thought changing the world was something you did. An act you performed, something you fought for, I don't know if that's true anymore, or if changing the world was just about being here. By showing up, no matter how many times we get told we don't belong. By staying true even when we're shamed into being false. By believing in ourselves, even when we are told we're too different. And if we all held onto that. If we refused to budge and fall in line. If we stood our ground for long enough, just maybe, the world can't help but change around us.
 > \- Mr Robot
 
+I want to be here for it all. The best experiences and the ugly ones, the joys and the sorrows. I want us all to tell stories of the times when we failed.
+I want to cheer when others succeed, and have them cheer when I do.  
+
+I want us to be honest, in our most vulnerable of moments. When we're challenged, but we stand strong.  
+
+I want the real stories of our lives, what really matters to us.  
+
+Because you see, we've all grown much too talented at creating false worlds, elaborate systems we invent and then pretend were always there.  
+So let's start telling stories instead.
+
 By sharing my stories, thoughts, mistakes, and lessons, you might find one of your own stories in mine.  
 Now, my tiny handful of experiences, the things I've learned, aren't going to change the whole world, but that's not the point.
 They changed me, and they could change you.  
@@ -76,6 +86,12 @@ They changed me, and they could change you.
 > \- V for Vendetta
 
 You can find more of my writing [here]({{< ref "/posts">}}).
+
+---
+
+### Truth
+
+
 
 ---
 
