@@ -90,12 +90,22 @@ You can find more of my writing [here]({{< ref "/posts">}}).
 ---
 
 ### Truth
+I don't believe in objective truth.  
 
+To put it another way, I don't believe that every question has a universally "correct" answer. I don't believe that in an argument or dispute, one must be wrong while the other right.
+I don't think everyone experiences the world the same, nor does there exist a "true objective frame of reference" upon which all else is based.  
 
+I think reality is fundamentally subjective, and there are many "true" stories about any given event, even if they seem to conflict.  
+
+To that end, I also don't believe in any sort of universal moral goodness, like a rating system for how good you are.
+I think people create their own moral code, based off the choices they make.
+> tis the choices we make - me
+
+This belief has a lot of implications for just about everything else that I believe, as I mention throughout the rest of my writing.
 
 ---
 
-### More quotes
+### More quotes that I like
 
 > I think most kids have a sense that it's not supposed to be this way. You're not supposed to hate Monday, or be happy when you don't have to go to school. School should be something that you love. Life should be something that you love.
 > \- Charles Eisenstein
