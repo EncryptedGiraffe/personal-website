@@ -108,7 +108,12 @@ This belief has a lot of implications for just about everything else that I beli
 
 ### Intellectual Property
 
-https://www.bmartin.cc/pubs/98il/il03.html
+Copyright, patents, and more broadly, intellectual property is nonsensical, contradictory, and antithetical to its original aims. 
+
+Other interesting takes:
+[Against Intellectual Property - Information Liberation - Brian Martin](https://www.bmartin.cc/pubs/98il/il03.html)
+
+[Against Copyright - Gwern](https://www.gwern.net/Copyright)
 
 
 ---
