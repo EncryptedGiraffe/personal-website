@@ -162,3 +162,8 @@ https://www.bmartin.cc/pubs/98il/il03.html
     - [Kiwix](https://www.kiwix.org/en/) for viewing things
     - [Zimit](https://github.com/openzim/zimit) for downloading stuff for Kiwix
     - The iconic [youtube-dl](https://youtube-dl.org/)
+  - Hosting + Domains:
+    - [Njalla](https://njal.la)
+  - VPN:
+    - Step 1, consider if you actually need a VPN and what you're using it for. Hint: you probably don't need it for what you're thinking of.
+    - I like the looks of Njalla, Mullvad, and iVPN.
