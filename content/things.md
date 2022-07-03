@@ -30,57 +30,59 @@ I don't use social media platforms.
 
 ### Writing
 I've always enjoyed writing, and trying to express ideas using it. When voices quiet, words persist. When memories fade, words remain clear.
-Words represent thoughts cast into the physical, a memoir of our lives. Words contain our history, our present, and countless futures.  
+Words represent thoughts cast into the physical, a memoir of our lives. Words contain our history, our present, and countless futures.
 
 That's why burning books is associated with totalitarian regimes, they seek to destroy knowledge to cement their power. 
-Now clearly, words are not the only means to convey ideas or preserve knowledge. Many cultures around the world had success using verbal or pictoral histories.  
+Now clearly, words are not the only means to convey ideas or preserve knowledge. Many cultures around the world had success using verbal or pictoral histories.
 
 However, words are special in this age because are extraordinarily easy to transmit across the globe, to reach people who would never otherwise cross paths with me.
-And yet also because of this, anyone and everyone has something to say, it's difficult to know who to believe, and who is trying to mislead you.  
+And yet also because of this, anyone and everyone has something to say, it's difficult to know who to believe, and who is trying to mislead you.
 
-Our collective trust in journalism and the news is being eroded, as everyone puts their own spin on things, and the news sells current events for profit.  
- 
-We find that truth is subjective and seemingly unknowable, that there may not be one "true objective reality."  
+Our collective trust in journalism and the news is being eroded, as everyone puts their own spin on things, and the news sells current events for profit.
 
-I think there's only one way to go on in a world where objectivity and truth is crumbling.  
+We find that truth is subjective and seemingly unknowable, that there may not be one "true objective reality."
 
-**With our stories.**  
+I think there's only one way to go on in a world where objectivity and truth is crumbling.
 
-We'll find each other in our stories. Our subjectively true, our biased, our authentic, our joyful and painful, stories.  
-We'll write our own stories, plotting our course through life.  
+**With our stories.**
 
-There's an undeniable truth within each and everyone of us. We'll find it in ourselves and we'll find it in each other.  
+We'll find each other in our stories. Our subjectively true, our biased, our authentic, our joyful and painful, stories.
+We'll write our own stories, plotting our course through life.
 
-Whatever your chosen medium is, use it to share your story. Write, paint, sing, dance, sketch, compose, grow. Whatever it is, put your soul into it.  
-Express yourself and show the world who you are.  
+There's an undeniable truth within each and everyone of us. We'll find it in ourselves and we'll find it in each other.
+
+Whatever your chosen medium is, use it to share your story. Write, paint, sing, dance, sketch, compose, grow. Whatever it is, put your soul into it.
+
+Express yourself and show the world who you are.
 
 For some time I thought the best way to change the world was to reach the entire world. To become famous, to get a platform.
-To get access to the shining spotlight to get a message to everyone. If only we could just get people to *listen*, then everything would be better.  
+To get access to the shining spotlight to get a message to everyone. If only we could just get people to *listen*, then everything would be better.
 
-Turns out, that's super naive and not how people actually work.  
+Turns out, that's super naive and not how people actually work.
 
-I now think that one of the most important things you can do to change the world is just being authentic.  
+I now think that one of the most important things you can do to change the world is just being authentic.
 
-Just being *yourself*.  
+Just being *yourself*.
 
-You know, authenticity, the thing that our world makes so hard to find.  
+You know, authenticity, the thing that our world makes so hard to find.
 
 > This whole time I thought changing the world was something you did. An act you performed, something you fought for, I don't know if that's true anymore, or if changing the world was just about being here. By showing up, no matter how many times we get told we don't belong. By staying true even when we're shamed into being false. By believing in ourselves, even when we are told we're too different. And if we all held onto that. If we refused to budge and fall in line. If we stood our ground for long enough, just maybe, the world can't help but change around us.
 > \- Mr Robot
 
 I want to be here for it all. The best experiences and the ugly ones, the joys and the sorrows. I want us all to tell stories of the times when we failed.
-I want to cheer when others succeed, and have them cheer when I do.  
+I want to cheer when others succeed, and have them cheer when I do.
 
-I want us to be honest, in our most vulnerable of moments. When we're challenged, but we stand strong.  
+I want us to be honest, in our most vulnerable of moments. When we're challenged, but we stand strong.
 
-I want the real stories of our lives, what really matters to us.  
+I want the real stories of our lives, what really matters to us.
 
-Because you see, we've all grown much too talented at creating false worlds, elaborate systems we invent and then pretend were always there.  
+Because you see, we've all grown much too talented at creating false worlds, elaborate systems we invent and then pretend were always there.
+
 So let's start telling stories instead.
 
-By sharing my stories, thoughts, mistakes, and lessons, you might find one of your own stories in mine.  
+By sharing my stories, thoughts, mistakes, and lessons, you might find one of your own stories in mine.
 Now, my tiny handful of experiences, the things I've learned, aren't going to change the whole world, but that's not the point.
-They changed me, and they could change you.  
+They changed me, and they could change you.
 
 > But what I hope most of all is that you understand what I mean when I tell you that even though I do not know you, and even though I may never meet you, laugh with you, cry with you, or kiss you. I love you. With all my heart, I love you.
 > \- V for Vendetta
@@ -91,12 +93,12 @@ You can find more of my writing [here]({{< ref "/posts">}}).
 
 ### Truth
 
-I don't believe in objective truth.  
+I don't believe in objective truth.
 
 To put it another way, I don't believe that every question has a universally "correct" answer. I don't believe that in an argument or dispute, one must be wrong while the other right.
-I don't think everyone experiences the world the same, nor does there exist a "true objective frame of reference" upon which all else is based.  
+I don't think everyone experiences the world the same, nor does there exist a "true objective frame of reference" upon which all else is based.
 
-I think reality is fundamentally subjective, and there are many "true" stories about any given event, even if they seem to conflict.  
+I think reality is fundamentally subjective, and there are many "true" stories about any given event, even if they seem to conflict.
 
 To that end, I also don't believe in any sort of universal moral goodness, like a rating system for how good you are.
 I think people create their own moral code, based off the choices they make.
