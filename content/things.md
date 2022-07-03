@@ -90,6 +90,7 @@ You can find more of my writing [here]({{< ref "/posts">}}).
 ---
 
 ### Truth
+
 I don't believe in objective truth.  
 
 To put it another way, I don't believe that every question has a universally "correct" answer. I don't believe that in an argument or dispute, one must be wrong while the other right.
@@ -102,6 +103,13 @@ I think people create their own moral code, based off the choices they make.
 > tis the choices we make - me
 
 This belief has a lot of implications for just about everything else that I believe, as I mention throughout the rest of my writing.
+
+---
+
+### Intellectual Property
+
+https://www.bmartin.cc/pubs/98il/il03.html
+
 
 ---
 
@@ -132,7 +140,7 @@ This belief has a lot of implications for just about everything else that I beli
     - [Unikernel-based Firewall](https://github.com/mirage/qubes-mirage-firewall)
 - Software:
   - Web Browsing:
-    - I like [Firefox](https://www.mozilla.org/en-US/firefox/) with [uBlock Origin](https://ublockorigin.com/) cause damn is the web terrible without an ad-blocker.
+    - I use [Firefox](https://www.mozilla.org/en-US/firefox/) with [uBlock Origin](https://ublockorigin.com/) cause damn is the web terrible without an ad-blocker.
   - Communication tools:
     - I have used both [Tutanota](https://tutanota.com/) and [Protonmail](https://proton.me/mail) for email
     - [Signal](https://signal.org)
