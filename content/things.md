@@ -111,12 +111,23 @@ This belief has a lot of implications for just about everything else that I beli
 ### Intellectual Property
 
 Copyright, patents, and more broadly, intellectual property is nonsensical, contradictory, and antithetical to its original aims. 
+Ideas, inventions, and creations never exist in isolation, all ideas come from a basis of pre-existing knowledge.
+
+Intellectual property disproportionally benefits the last person in the chain of ideas and knowledge that produced an idea. All invention is social.
+
+Additionally, copyright often now doesn't even serve the interests of creators, the supposed reason for its existence.
+Instead, publishers reap immense profit off the creative works of others.
+
+Freely available information and knowledge is a benefit to the whole world, attempts to restrict that access should be resisted and undermined.
 
 Other interesting takes:
 [Against Intellectual Property - Information Liberation - Brian Martin](https://www.bmartin.cc/pubs/98il/il03.html)
 
 [Against Copyright - Gwern](https://www.gwern.net/Copyright)
 
+[Guerilla Open Access Manifesto - Aaron Swartz](https://archive.org/details/GuerillaOpenAccessManifesto)
+
+Check out and support: Sci-Hub, Library Genesis, and others doing similar work.
 
 ---
 
