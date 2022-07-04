@@ -131,6 +131,59 @@ Check out and support: Sci-Hub, Library Genesis, and others doing similar work.
 
 ---
 
+### Property and Possession
+
+"Possession" is rooted in the concept of "use rights" while "private property" is rooted in a separation between the users and ownership.
+As example, a house that someone lives in is a possession, whereas if they rented it to someone else to make profit, it becomes property.
+
+Similarly, if someone uses a set of tools to make a living as a self-employed carpenter, those tools are their possessions.
+However, if they instead pay other people to use those tools to generate profit for them, the tools are property.
+
+This distinction may be confusing at first, but it is interesting to think about with respect to our society.
+A lot of people use the word "property" to refer to everything from their toothbrush to their $2.9 million house in Vegas that they rent out.
+Those two things clearly have a very different impact on their lives, and society in general.
+
+And now, an iconic quote:
+
+> Property is theft
+
+**A story:**
+
+> Once, somewhere, there was two people. One of them was a very busy person, always running around doing things.
+> You see, they were in the business of buying and selling stars. They'd be making high-stakes trades all day, doing deals to amasse more stars.
+> Eventually, after much great work, they owned thousands of stars. However, they constantly had to work to own more and more stars.
+> It is the nature of star-owners to need ever-more stars to own.
+
+> The other person lived a much more quiet life. They owned no stars, in fact had only two possessions: a small flowering plant, and a nearby volcano.
+> Every day, they watered their plant if it was dry, and cleaned out their volcano.
+
+> One day, the busy person was rushing by, when they came upon a person cleaning a volcano. "Oh wow, how poor this person is, who owns no stars and must clean this volcano."
+> In an act of charitable kindness (that would also save them stars in tax benefits) they offered to gift a couple of stars to this poor person, out of pity for their life.
+> The volcano cleaner, gently refusing the offer, pulled out a plant and showed it to the other person.
+
+> "Oh you who does so much and owns so many stars, are you happy with your life? Have you done good in this world?"  
+> "You see, I own only this plant and this volcano, and every day I water the plant and clean this volcano."  
+> "The plant is happy and thriving, and the volcano is nice and clean. My possessions benefit from me having owned them."  
+> "But the stars that you own, are they better because you own them? Is the world improved by it?"
+
+Now, I'd say there are probably infinite different ways that story could end, but there's one that I find interesting.
+
+The rich person laughs at the other, mocking them for clearly not understanding how the world works.  
+They go on with their life, getting more and more stars to own. Maybe sometime, but possibly never, a little nagging voice takes hold in the back of their head.  
+"Why do I need so many more stars, maybe wouldn't it be nice to improve the things I own, instead of just needing more?"  
+Perhaps they change, make different choices.
+
+I think this speaks to how people on some level recognize truths when they see them, even if they aren't ready to consciously know that yet.
+
+**Land:**
+
+> If I am evicted from one piece of private property, where can I go? Nowhere, unless another owner agrees to allow me access to their piece of private property.
+> This means that everywhere I can stand is a place where I have no right to stand without permission and, as a consequence,
+> I exist only by the sufferance of the property owning elite.
+
+
+---
+
 ### More quotes that I like
 
 > I think most kids have a sense that it's not supposed to be this way. You're not supposed to hate Monday, or be happy when you don't have to go to school. School should be something that you love. Life should be something that you love.
