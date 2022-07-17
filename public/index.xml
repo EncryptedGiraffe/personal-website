@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kylen.me</title>
+    <link>https://kylen.me/</link>
+    <description>Recent content on kylen.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/legalcode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 08 Jun 2022 21:52:26 -0700</lastBuildDate><atom:link href="https://kylen.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Qubes on the Framework Laptop</title>
+      <link>https://kylen.me/posts/2022/06/installing-qubes-on-the-framework-laptop/</link>
+      <pubDate>Wed, 08 Jun 2022 21:52:26 -0700</pubDate>
+      
+      <guid>https://kylen.me/posts/2022/06/installing-qubes-on-the-framework-laptop/</guid>
+      <description>Gist from Github:
+  Reproduced in text form (may be outdated): This was my process getting Qubes OS running on the Framework Laptop. I use a dark theme, and these are the scaling numbers that looked good to me. I also run debian minimal for all templates. XFCE. Specs: i5-1135G7, 16GB RAM, 512GB SN850 NVMe, AX210 no vPro
+In the future I may try installing KDE, or salting some of this configuration, For now however, this is the list of settings I changed.</description>
+    </item>
+    
+    <item>
+      <title>WW - Hello World</title>
+      <link>https://kylen.me/posts/2022/06/ww-hello-world/</link>
+      <pubDate>Mon, 06 Jun 2022 20:00:00 -0700</pubDate>
+      
+      <guid>https://kylen.me/posts/2022/06/ww-hello-world/</guid>
+      <description>hello world
+I would say that nearly every programmer in the world has written a so-called &amp;ldquo;hello world&amp;rdquo; program at some point in their journey.
+This program, once launched, prints &amp;ldquo;hello world&amp;rdquo; to the screen and then exits. A very simple goal, but the countless ways to write such a program is a testament to the myriad of techniques and languages programmers use.
+Diving a little deeper though, we see that underneath such a simple program, an immense amount of work is being done.</description>
+    </item>
+    
+    <item>
+      <title>Things</title>
+      <link>https://kylen.me/things/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylen.me/things/</guid>
+      <description>Hi there! Here I will share anything I think is interesting. It might be random information, books, or videos, or articles, or quotes, anything of the sort. This page will (presumably) expand over time, and is perpetually a work-in-progress. I will add, remove, and change things frequently.
+Because this page is long, and completely unordered, I highly suggest you utilize the table of contents.
+ Interesting quote:
+ A civilization which leaves so large a number of its participants unsatisfied and drives them into revolt neither has nor deserves the prospect of a lasting existence.</description>
+    </item>
+    
+  </channel>
+</rss>

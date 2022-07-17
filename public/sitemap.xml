@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kylen.me/tags/framework/</loc>
+    <lastmod>2022-06-08T21:52:26-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/posts/2022/06/installing-qubes-on-the-framework-laptop/</loc>
+    <lastmod>2022-06-08T21:52:26-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/</loc>
+    <lastmod>2022-06-08T21:52:26-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/posts/</loc>
+    <lastmod>2022-06-08T21:52:26-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/tags/qubes/</loc>
+    <lastmod>2022-06-08T21:52:26-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/tags/</loc>
+    <lastmod>2022-06-08T21:52:26-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/tags/wild-wonderings/</loc>
+    <lastmod>2022-06-06T20:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/posts/2022/06/ww-hello-world/</loc>
+    <lastmod>2022-06-06T20:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://kylen.me/categories/</loc>
+  </url><url>
+    <loc>https://kylen.me/series/</loc>
+  </url><url>
+    <loc>https://kylen.me/things/</loc>
+  </url>
+</urlset>

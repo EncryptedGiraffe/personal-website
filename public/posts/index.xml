@@ -1,0 +1,134 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on kylen.me</title>
+        <link>https://kylen.me/posts/</link>
+        <description>Recent content in Posts on kylen.me</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/legalcode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 08 Jun 2022 21:52:26 -0700</lastBuildDate>
+        <atom:link href="https://kylen.me/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Installing Qubes on the Framework Laptop</title>
+            <link>https://kylen.me/posts/2022/06/installing-qubes-on-the-framework-laptop/</link>
+            <pubDate>Wed, 08 Jun 2022 21:52:26 -0700</pubDate>
+            
+            <guid>https://kylen.me/posts/2022/06/installing-qubes-on-the-framework-laptop/</guid>
+            <description>Gist from Github:
+  Reproduced in text form (may be outdated): This was my process getting Qubes OS running on the Framework Laptop. I use a dark theme, and these are the scaling numbers that looked good to me. I also run debian minimal for all templates. XFCE. Specs: i5-1135G7, 16GB RAM, 512GB SN850 NVMe, AX210 no vPro
+In the future I may try installing KDE, or salting some of this configuration, For now however, this is the list of settings I changed.</description>
+            <content type="html"><![CDATA[<p>Gist from Github:</p>
+<script type="application/javascript" src="https://gist.github.com/EncryptedGiraffe/39eea9cc7598d09a98711efe7c7a2c89.js"></script>
+
+<hr>
+<h3 id="reproduced-in-text-form-may-be-outdated">Reproduced in text form (may be outdated):</h3>
+<p>This was my process getting Qubes OS running on the Framework Laptop. I use a dark theme, and these are the scaling numbers that looked good to me. I also run debian minimal for all templates. XFCE.
+Specs: i5-1135G7, 16GB RAM, 512GB SN850 NVMe, AX210 no vPro</p>
+<p>In the future I may try installing KDE, or salting some of this configuration, For now however, this is the list of settings I changed.</p>
+<p>Install:</p>
+<ul>
+<li>Disable Secure Boot, Hyperthreading in BIOS, make sure VT-x and VT-d are on (they are by default)</li>
+<li>Install the ISO however you want. I chose BTRFS</li>
+<li>Reboot, complete Final Configuration, then shutdown</li>
+<li>Reboot into installer rescue mode, get a shell. Run <code>efibootmgr -v -c -u -L QubesOS -l /EFI/qubes/grubx64.efi -d /dev/nvme0n1 -p 1</code></li>
+<li>Boot, connect to internet. I USB tethered my phone by setting sys-usb to provide network, and adding the network-manager service then switching sys-firewall to get network from sys-usb</li>
+<li>run dom0 updates, install kernel-latest-qubes-vm</li>
+</ul>
+<p>Dark theme and scaling:</p>
+<ul>
+<li>System tools &gt; Appearance &gt; Style = adwaita dark</li>
+<li>System tools &gt; Window Manager &gt; Theme = slick</li>
+<li>System tools &gt; Panel &gt; Row Size = 36</li>
+<li>System tools &gt; Appearance &gt; Fonts &gt; dpi = 130</li>
+<li>Add <code>xfcd4-panel -r</code> as a command in Session and Startup &gt; Application Autostart</li>
+<li>Install <code>qt5-qtstyleplugins</code> in dom0</li>
+<li>Run <code>echo QT_QPA_PLATFORMTHEME=gtk2 &gt;&gt; /etc/environment</code></li>
+<li>Change <code>Xft.dpi: 130</code> in dom0</li>
+</ul>
+<p>To get debian-11-minimal templates to work with xterm scaled and a dark theme:</p>
+<ul>
+<li>in <code>/etc/X11/Xresources/X11-common</code></li>
+</ul>
+<pre tabindex="0"><code>Xft.dpi: 130
+xterm*faceName: Monospace
+xterm*faceSize: 12
+</code></pre><ul>
+<li>create <code>~/.config/gtk3.0/settings.ini</code> in <code>/etc/skel</code></li>
+</ul>
+<pre tabindex="0"><code>[Settings]
+gtk-font-name=DejaVu Sans Book 12
+gtk-theme-name=Adwaita-dark
+gtk-icon-theme=gnome
+</code></pre><ul>
+<li>create <code>.gtkrc-2.0</code> in <code>/etc/skel</code></li>
+</ul>
+<pre tabindex="0"><code>include &#34;/usr/share/themes/Adwaita-dark/gtk-2.0/gtkrc&#34;
+style &#34;user-font&#34;
+{
+ font_name=&#34;DejaVu Sans Book&#34;
+ }
+ widget_class &#34;*&#34; style &#34;user-font&#34;
+ gtk-font-name=&#34;DejaVu Sans Book 12&#34;
+ gtk-theme-name=&#34;Adwaita-dark&#34;
+ gtk-icon-theme-name=&#34;gnome&#34;
+</code></pre><ul>
+<li>create <code>.Xresources</code> in <code>/etc/skel</code></li>
+</ul>
+<pre tabindex="0"><code>Xft.dpi: 130
+xterm*faceName: Monospace
+xterm*faceSize: 12
+</code></pre><p>At the very beginning, my (debian) sys-usb constantly sent notifications of empty devices attaching and disconnecting. (Device &quot;&quot; was removed)<br>
+Other people have reported this as well. For me this problem went away after updating to <code>kernel-latest-qubes-vm</code></p>
+<p>Getting the AX210 no vPro wifi working:
+this one has been a pain in the ass. so far, the only way I can get it working is this:
+Using kernel 5.10.109-1
+Install <code>firmware-iwlwifi</code> in template
+On VM boot:</p>
+<ul>
+<li>Get a root terminal</li>
+<li><code>rm /lib/firmware/iwlwifi-ty-a0-gf-a0.pnvm</code></li>
+<li><code>modprobe -r iwlmvm &amp;&amp; modprobe -r iwlwifi</code></li>
+<li><code>modprobe iwlwifi &amp;&amp; modprobe iwlmvm</code>
+This gets the wifi working until I shutdown
+Further work to be done here for sure</li>
+</ul>
+<p>Thanks to everyone on the forums and elsewhere that I&rsquo;ve used as guides to get everything working in the first place!</p>
+<p>Other notes:
+use apt-cacher-ng!<br>
+to get a debian-11-minimal template to run AppImages, install <code>fuse, libasound2</code></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>WW - Hello World</title>
+            <link>https://kylen.me/posts/2022/06/ww-hello-world/</link>
+            <pubDate>Mon, 06 Jun 2022 20:00:00 -0700</pubDate>
+            
+            <guid>https://kylen.me/posts/2022/06/ww-hello-world/</guid>
+            <description>hello world
+I would say that nearly every programmer in the world has written a so-called &amp;ldquo;hello world&amp;rdquo; program at some point in their journey.
+This program, once launched, prints &amp;ldquo;hello world&amp;rdquo; to the screen and then exits. A very simple goal, but the countless ways to write such a program is a testament to the myriad of techniques and languages programmers use.
+Diving a little deeper though, we see that underneath such a simple program, an immense amount of work is being done.</description>
+            <content type="html"><![CDATA[<p><code>hello world</code></p>
+<p>I would say that nearly every programmer in the world has written a so-called &ldquo;hello world&rdquo; program at some point in their journey.</p>
+<p>This program, once launched, prints &ldquo;hello world&rdquo; to the screen and then exits. A very simple goal, but the countless ways to write such a program is a testament to the myriad of techniques and languages programmers use.</p>
+<p>Diving a little deeper though, we see that underneath such a simple program, an immense amount of work is being done. Simply launching a program requires a complex operating environment, often multitudes of processes and libraries. Then the program needs to learn about the environment it&rsquo;s running in, what it&rsquo;s capable of doing, how it would go about its tasks. By the time the user reads &ldquo;hello world&rdquo;, the program was born, lived its life preparing for its final moment, printing text to a screen and dying.</p>
+<hr>
+<p>We begin life as a single cell, our bodies built for us by another, before bursting out into a life of our own. We embark upon our journey of growing up, learning how the world works, forming our own understandings of the universe and our place in it. We then get older and eventually die, returning to the cradle of the Earth from which we were born.</p>
+<p>We&rsquo;re born, we live, we die.</p>
+<p>I believe that the entire middle part, our living life, is a period of discovery. A lifelong discovery of both of ourselves and the world. Every new experience, every feeling, thought, or relationship, teaches us more about ourselves and those around us. Every laugh, every sob, every time we fall down, every time we get back up. We grow like trees, wrapping layers of experience around us with age.</p>
+<p>If our entire lives consist of learning, then we should hope we have some pretty good teachers.</p>
+<p>Unfortunately, we usually don&rsquo;t.</p>
+<p>The problem is, so much of our human world is deeply, incredibly flawed, from the way we see ourselves and the life around us, how we raise our children, and what we believe has value. We&rsquo;ve created a kind of world-on-world, a special lens that allows us to live our lives believing a central set of lies that underpin modern society. This lens shows us a distorted image, so that what we see isn&rsquo;t real, and what is real, we end up thinking is fake. Once you remove the lens, some of the things we think we know as fundamental truths are revealed to be wrong, sometimes wildly so.</p>
+<p>When we grow up and live our lives according to these lies, we get caught up in their silly games, their false dichotomies, their wars and contests of moral righteousness. We might start believing that our inner worth lies in how skilled we are at converting life into money, or how productive we can be, how well we can serve the Machine of the global economy. We might be led astray into thinking that we alone experience the real world, the true objective observers of the universe. Maybe we&rsquo;d think that we&rsquo;re the only intelligence on Earth, or that every person is only capable of acting according to their selfish self-interest, that competition is the natural order of existence, that in order for me to gain, everyone else must lose.</p>
+<p>I think now, an expanding group of people, scattered across the world, are beginning to realize that the foundations of that story, the &ldquo;truths&rdquo; of that worldview, are incorrect, and profoundly harmful to ourselves and the surrounding web of life. More people start asking &ldquo;why?&rdquo; to the basic presuppositions that we are expected to agree to.</p>
+<p>The dominant narrative has always faced some resistance, but lately it feels as if that narrative has been stretched to the breaking point, stretched so thinly that more people can start to see through its falsehoods.</p>
+<hr>
+<p>This blog is my story of peeking through narratives, part of our worldwide experience of discovering that what we were told was true is so only as long as we believe it. Power stems from belief, so the moment we stop believing in false idols, a shift happens. Like water breaking through a dam, first a little bit trickles through. It&rsquo;s not super visible, doesn&rsquo;t really change anything. But inside, the dam&rsquo;s structural integrity starts failing, until all of a sudden it shatters, giving way to a torrent of water. Our collective refusal of belief will strike a hidden death blow to the dominant institutions of our world. The status quo, the &ldquo;normal&rdquo;, was already dying, now it&rsquo;s up to us to figure out what kind of Story of the World will replace it.</p>
+<p>Welcome.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
