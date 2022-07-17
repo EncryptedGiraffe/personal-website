@@ -12,6 +12,8 @@ Hi there!
 Here I will share anything I think is interesting. It might be random information, books, or videos, or articles, or quotes, anything of the sort. 
 This page will (presumably) expand over time, and is perpetually a work-in-progress. I will add, remove, and change things frequently.
 
+
+Because this page is long, and completely unordered, I highly suggest you utilize the table of contents.
 ---
 
 Interesting quote:
@@ -98,10 +100,19 @@ I don't believe in objective truth.
 To put it another way, I don't believe that every question has a universally "correct" answer. I don't believe that in an argument or dispute, one must be wrong while the other right.
 I don't think everyone experiences the world the same, nor does there exist a "true objective frame of reference" upon which all else is based.
 
-I think reality is fundamentally subjective, and there are many "true" stories about any given event, even if they seem to conflict.
+When people are involved, there are always many different stories about a given event, and even if they conflict, I don't think that forces one or more of them to be wrong.  
+Each person's story is true to them, so thus has a certain truth to it.
 
-To that end, I also don't believe in any sort of universal moral goodness, like a rating system for how good you are.
-I think people create their own moral code, based off the choices they make.
+This for me invalidates the idea of universal objective morality.
+
+Any action can be seen as moral or immoral as according to people, and they're all right. People can (and will) disagree about morality all the time.
+However, the only thing morality can affect is your own actions. Essentially, what will you stand for?
+
+If someone defers their morality to an external source, religion for example, that structure simply becomes a part of their own moral beliefs.  
+I reject the idea that any religion or belief system is "universally correct" above all others.
+
+The purpose of morality is to decide what we are okay with, and what we're willing to do about it.
+
 > tis the choices we make - me
 
 This belief has a lot of implications for just about everything else that I believe, as I mention throughout the rest of my writing.
@@ -149,7 +160,7 @@ And now, an iconic quote:
 
 **A story:**
 
-> Once, somewhere, there was two people. One of them was a very busy person, always running around doing things.
+> Once, somewhere, there were two people. One of them was a very busy person, always running around doing things.
 > You see, they were in the business of buying and selling stars. They'd be making high-stakes trades all day, doing deals to amasse more stars.
 > Eventually, after much great work, they owned thousands of stars. However, they constantly had to work to own more and more stars.
 > It is the nature of star-owners to need ever-more stars to own.
@@ -181,6 +192,8 @@ I think this speaks to how people on some level recognize truths when they see t
 > This means that everywhere I can stand is a place where I have no right to stand without permission and, as a consequence,
 > I exist only by the sufferance of the property owning elite.
 
+> The land monopoly consists of enforcement by government of land titles which do not rest upon personal occupancy and use. It also includes making the squatting of abandoned housing and other forms of property illegal. This leads to ground-rent, by which landlords get payment for letting others use the land they own but do not actually cultivate or use. It also allows the ownership and control of natural resources like oil, gas, coal and timber. This monopoly is particularly exploitative as the owner cannot claim to have created the land or its resources. It was available to all until the landlord claimed it by fencing it off and barring others from using it.  
+> Until the nineteenth century, the control of land was probably the single most important form of privilege by which working people were forced to accept less than its product as a wage. While this monopoly is less important in a modern capitalist society (as few people know how to farm), it still plays a role (particularly in terms of ownership of natural resources). At a minimum, every home and workplace needs land on which to be built. Thus while cultivation of land has become less important, the use of land remains crucial. The land monopoly, therefore, ensures that working people find no land to cultivate, no space to set up shop and no place to sleep without first having to pay a landlord a sum for the privilege of setting foot on the land they own but neither created nor use. At best, the worker has mortgaged their life for decades to get their wee bit of soil or, at worse, paid their rent and remained as property-less as before. Either way, the landlords are richer for the exchange.
 
 ---
 
@@ -196,6 +209,9 @@ I think this speaks to how people on some level recognize truths when they see t
 > \- Geoff Lawton
 
 > Though the problems of the world are increasingly complex, the solutions remain embarrassingly simple.
+> \- Bill Mollison
+
+> The greatest change we need to make is from consumption to production, even if on a small scale, in our own gardens. If only 10% of us do this, there is enough for everyone. Hence the futility of revolutionaries who have no gardens, who depend on the very system they attack, and who produce words and bullets, not food and shelter.
 > \- Bill Mollison
 
 ---
