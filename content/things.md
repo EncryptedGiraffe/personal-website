@@ -12,8 +12,8 @@ Hi there!
 Here I will share anything I think is interesting. It might be random information, books, or videos, or articles, or quotes, anything of the sort. 
 This page will (presumably) expand over time, and is perpetually a work-in-progress. I will add, remove, and change things frequently.
 
-
 Because this page is long, and completely unordered, I highly suggest you utilize the table of contents.
+
 ---
 
 Interesting quote:
