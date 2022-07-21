@@ -5,7 +5,7 @@
         <h1>{{ .Title }}</h1>
 
         {{ if .Site.Params.postsPageContent }}
-           <div class="content">{{ .Site.Params.postsPageContent }}</div><br/><a href="https://wildwonderings.substack.com">Wild Wonderings - Substack</a><br/><br/><br/>
+           <div class="content">{{ .Site.Params.postsPageContent | safeHTML }}</div><br/>
         {{ end }}
 
         {{ range $paginator.Pages.GroupByDate "2006" }}

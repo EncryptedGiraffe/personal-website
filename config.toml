@@ -69,8 +69,9 @@ disableHugoGeneratorInject = false
 
   # content for the posts page text
   postsPageContent = """
-    This is a collection of all my writings, on a variety of unsorted topics.
+    This is a collection of all my writings, on a variety of topics in no particular order.
     I also publish a blog on Substack, those posts will appear here as well.
+    <a href=\"https://wildwonderings.substack.com\">Wild Wonderings - Substack</a> <a href=\"/tags/wild-wonderings\">Wild Wonderings - Here</a>
   """ 
 
 
