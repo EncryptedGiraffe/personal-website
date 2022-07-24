@@ -1,6 +1,6 @@
 ---
 title: "WW - Perspective"
-date: 2022-07-21T14:15:19-07:00
+date: 2022-07-24T13:15:02-07:00
 draft: false
 toc: false
 images:
