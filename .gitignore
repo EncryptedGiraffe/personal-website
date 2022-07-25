@@ -2,6 +2,7 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+/public
 
 # executable
 hugo.exe
@@ -11,6 +12,4 @@ hugo.linux
 # temp files
 /.hugo_build.lock
 
-#build stuff
-build_and_deploy.sh
-build_logs.txt
+
