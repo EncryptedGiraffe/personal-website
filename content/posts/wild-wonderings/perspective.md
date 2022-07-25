@@ -46,7 +46,7 @@ That means simply by living they are causing harm, their existence is inherently
 It means no matter how hard they try, they will always fail to do any good because they are just bad. Bad, evil, destructive people.
 
 What does that do to someone? If everything you do is bad, would you do anything? If everything you try will fail, why try?
-Why try to improve things, or change the world, if everything you do will still be bad? If you believe that they best possible action you could take would be to die.
+Why try to improve things, or change the world, if everything you do will still be bad? If you believe that the best possible action you could take would be to die.
 
 Now, the above is the perspective taken to the extreme, but it doesn't have to be. I find in my own experience that varying levels of that belief pervade our culture.
 It's popular within jokes, self-deprecating humor with the punchline being all of us. Jokes and humor are consistently used by people to mention things they aren't willing to discuss outright.
