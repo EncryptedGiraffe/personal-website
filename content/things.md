@@ -23,13 +23,6 @@ Interesting quote:
 
 ---
 
-### General stuff
-My public GPG key is [here](/key.asc) (also should be available via various keyservers), fingerprint is `1393 4695 E86F F6B2 59A6  F6D1 49D8 34EB 0BE0 0E88`  
-For emails, I can be reached at hi[at]kylen.me, or hi[at]encryptedgiraffe.xyz  
-I don't use social media platforms.  
-
----
-
 ### Writing
 I've always enjoyed writing, and trying to express ideas using it. When voices quiet, words persist. When memories fade, words remain clear.
 Words represent thoughts cast into the physical, a memoir of our lives. Words contain our history, our present, and countless futures.

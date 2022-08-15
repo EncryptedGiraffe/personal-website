@@ -62,9 +62,10 @@ disableHugoGeneratorInject = false
   # Home subtitle of the index page.
   #
   homeSubtitle = """
-    Hello there, I'm Kylen, known as Encrypted Giraffe on some platforms. This website contains some of the things I do. <br/>
-    Check the <a href=\"things/\">Things</a> page for random notes, links, and tidbits I have to share. <br/>
-    Check the <a href=\"posts/\">Posts</a> page for any longer writing I've done.
+    Hello there, I'm Kylen, known as Encrypted Giraffe on some platforms. <br/><br/>
+    <a href=\"\">About</a> page for some info about me, and contact information. <br/>
+    <a href=\"things/\">Things</a> page for quotes, notes, and little tidbits I have to share. <br/>
+    <a href=\"posts/\">Posts</a> page for any longer writing I've done.
   """
 
   # content for the posts page text
@@ -188,10 +189,17 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+    weight     = 10
+  [[menu.main]]
     identifier = "things"
     name       = "Things"
     url        = "things/"
+    weight     = 20
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    weight     = 30
